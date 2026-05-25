@@ -1,4 +1,3 @@
-# ecommerce-operations-analysis
 # eCommerce Operations Analysis
 **Tools:** BigQuery SQL | Google Cloud
 **Dataset:** TheLook eCommerce (Google Public Dataset)
